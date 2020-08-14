@@ -1,1 +1,2 @@
-# Devopsprojects
+# Devops projects
+Git commands:
